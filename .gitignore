@@ -1,0 +1,11 @@
+# Converty run artifacts (in case you test inside the repo folder)
+Converty_Report_*.html
+Converty_Report_*.csv
+Converty_Report_*.txt
+
+# Windows / editor cruft
+Thumbs.db
+desktop.ini
+.vs/
+*.user
+*.tmp
